@@ -1,7 +1,7 @@
 body,p,h1,ul,li,a {
     padding:0px;
     margin:0px;
-    color:#ff8c00
+    color:#2D87DD
 }
 
 li{
@@ -16,7 +16,7 @@ header{
 
 body{
     font-family:"Segoe UI", Tahoma, Verdana, sans-serif;
-    color:#ff8c00;
+    color:#2D87DD;
     background:#efefef;
     font-size:1em;
     line-height:2em;
@@ -93,7 +93,7 @@ footer{
     left:0;
     bottom:0;
     width:100%;
-    background:#ff8c00;
+    background:#2D87DD;
     position:fixed;
     padding:20px
 }
