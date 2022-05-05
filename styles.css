@@ -35,17 +35,6 @@ a{
     text-decoration:none
 }
 
-.btn{
-    background:#ff8c00;
-    color:#f9f9f9;
-    font-size:1.125em;
-    font-weight:bold;
-    text-transform:uppercase;
-    padding:10px 20px;
-    border-radius:4px;
-    text-align:center
-}
-
 .current-menu{
     color:#87cefa
 }
@@ -134,20 +123,6 @@ body{
     height:100vh
 }
 
-.contact-form h2{
-    margin:0 auto;
-    padding:0 0 15px 0
-}
-
-.contact-form input,.contact-form textarea{
-    padding:5px;
-    margin-bottom:12px
-}
-
-.contact-form .btn{
-    margin: 10px 100px 10px;
-}
-
 .projects{
     background:#f9f9ff;
     height:100vh;
@@ -165,6 +140,6 @@ body{
 .icon {
     float: left;
     padding-top: 0.25em;
-    margin: -1.11em -1.11em -1em 0.5em;
+    margin: -1.11em -1.11em -1.11em 0.5em;
     height: 3.5em;
 }
